@@ -4,7 +4,7 @@
 https://angular.io/docs/ts/latest/quickstart.html
 
 ## 동영상 강좌
-Udemy - Maximilian Schwarzmüller Angular 강좌 - $10 할인기간을 노리세요  
+Udemy - Maximilian Schwarzmüller Angular 강좌 - $10 할인기간을 노리세요  
 https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview  
 https://www.udemy.com/angular-styling-animations-for-angular-2-and-angular-4  
 
